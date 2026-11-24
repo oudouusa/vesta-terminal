@@ -1,0 +1,7 @@
+# The public pages of Vesta Terminal (GitHub Pages, Jekyll). Nothing else of the repository
+# is published: only this folder is the site's source.
+title: Vesta Terminal
+description: iPhone から自分のサーバーに SSH と Mosh でつなぐターミナル
+lang: ja
+theme: jekyll-theme-minimal
+exclude: [README.md]
